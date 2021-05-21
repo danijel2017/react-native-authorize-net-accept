@@ -1,0 +1,22 @@
+
+{
+  "name": "react-native-authorize-net-accept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "authorize-net-accept"
+  ],
+  "author": "XPowerDev",
+  "license": "",
+  "devDependencies": {
+    "react-native": "^0.64.1"
+  },
+  "peerDependencies": {
+    "react-native": "^0.64.1"
+  }
+}

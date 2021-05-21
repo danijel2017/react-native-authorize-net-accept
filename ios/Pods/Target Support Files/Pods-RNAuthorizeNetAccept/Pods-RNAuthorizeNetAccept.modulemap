@@ -1,0 +1,6 @@
+module Pods_RNAuthorizeNetAccept {
+  umbrella header "Pods-RNAuthorizeNetAccept-umbrella.h"
+
+  export *
+  module * { export * }
+}
